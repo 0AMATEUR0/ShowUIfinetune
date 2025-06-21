@@ -137,12 +137,7 @@ def main():
                     px_min, py_min, px_max, py_max = current_box
                     w = px_max - px_min
                     h = py_max - py_min
-                    norm_bbox = [
-                        px_min / img_width,
-                        py_min / img_height,
-                        w / img_width,
-                        h / img_height
-                    ]
+                    norm_bbox = [px_min, py_min, w, h]
 
                     # 添加到当前图片的元素列表
                     current_image_data["id"] = ids

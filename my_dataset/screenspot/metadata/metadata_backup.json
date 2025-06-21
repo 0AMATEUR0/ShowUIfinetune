@@ -1,0 +1,74 @@
+[
+  {
+    "split": "desktop",
+    "id": "screenspot_0",
+    "task": "请输入用户名",
+    "img_url": "image0.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1",
+    "task": "请输入密码",
+    "img_url": "image0.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2",
+    "task": "请登录",
+    "img_url": "image0.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3",
+    "task": "请重置",
+    "img_url": "image0.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  }
+]

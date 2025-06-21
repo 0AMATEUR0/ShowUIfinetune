@@ -1,596 +1,8570 @@
 [
-    {
-        "split": "desktop",
-        "id": "screenspot_0",
-        "task": "用户名",
-        "img_url": "image0.png",
-        "img_size": [
-            640,
-            447
-        ],
-        "bbox": [
-            0.4859375,
-            0.49440715883668906,
-            0.7828125,
-            0.5458612975391499
-        ],
-        "data_type": "icon",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_1",
-        "task": "密码",
-        "img_url": "image0.png",
-        "img_size": [
-            640,
-            447
-        ],
-        "bbox": [
-            0.4859375,
-            0.5436241610738255,
-            0.778125,
-            0.5906040268456376
-        ],
-        "data_type": "icon",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_2",
-        "task": "登录",
-        "img_url": "image0.png",
-        "img_size": [
-            640,
-            447
-        ],
-        "bbox": [
-            0.53125,
-            0.6286353467561522,
-            0.646875,
-            0.6644295302013423
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_3",
-        "task": "重置",
-        "img_url": "image0.png",
-        "img_size": [
-            640,
-            447
-        ],
-        "bbox": [
-            0.659375,
-            0.6286353467561522,
-            0.784375,
-            0.668903803131991
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_4",
-        "task": "我的常用",
-        "img_url": "image1.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.034375,
-            0.12213740458015267,
-            0.078125,
-            0.14790076335877864
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_5",
-        "task": "战略管理",
-        "img_url": "image1.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.033854166666666664,
-            0.15076335877862596,
-            0.078125,
-            0.1784351145038168
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_6",
-        "task": "商业分析",
-        "img_url": "image1.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.033854166666666664,
-            0.17938931297709923,
-            0.07760416666666667,
-            0.20419847328244276
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_7",
-        "task": "财务会计",
-        "img_url": "image1.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.03333333333333333,
-            0.2099236641221374,
-            0.07760416666666667,
-            0.23377862595419846
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_8",
-        "task": "财务共享",
-        "img_url": "image1.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.0359375,
-            0.24045801526717558,
-            0.07916666666666666,
-            0.26622137404580154
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_9",
-        "task": "管理会计",
-        "img_url": "image1.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.0328125,
-            0.2700381679389313,
-            0.07916666666666666,
-            0.2948473282442748
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_10",
-        "task": "资金管理",
-        "img_url": "image1.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.0328125,
-            0.2958015267175573,
-            0.07864583333333333,
-            0.3244274809160305
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_11",
-        "task": "营销服务管理",
-        "img_url": "image1.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.03333333333333333,
-            0.32729007633587787,
-            0.09166666666666666,
-            0.3530534351145038
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_12",
-        "task": "税务管理",
-        "img_url": "image1.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.033854166666666664,
-            0.35782442748091603,
-            0.08177083333333333,
-            0.383587786259542
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_13",
-        "task": "合同需求",
-        "img_url": "image1.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.034895833333333334,
-            0.3883587786259542,
-            0.0796875,
-            0.4131679389312977
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_14",
-        "task": "供应链管理",
-        "img_url": "image1.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.034375,
-            0.41889312977099236,
-            0.08854166666666667,
-            0.44274809160305345
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_15",
-        "task": "条码管理",
-        "img_url": "image1.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.034375,
-            0.4484732824427481,
-            0.08177083333333333,
-            0.4732824427480916
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_16",
-        "task": "企业建模",
-        "img_url": "image1.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.035416666666666666,
-            0.4761450381679389,
-            0.08125,
-            0.5009541984732825
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_17",
-        "task": "系统平台",
-        "img_url": "image1.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.034375,
-            0.5038167938931297,
-            0.08697916666666666,
-            0.5305343511450382
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_18",
-        "task": "集成管理",
-        "img_url": "image1.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.03177083333333333,
-            0.5362595419847328,
-            0.084375,
-            0.5610687022900763
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_19",
-        "task": "张江预算",
-        "img_url": "image1.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.03229166666666667,
-            0.5629770992366412,
-            0.08385416666666666,
-            0.5916030534351145
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_20",
-        "task": "张江小贷",
-        "img_url": "image1.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.034375,
-            0.5954198473282443,
-            0.084375,
-            0.6192748091603053
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_21",
-        "task": "凭证处理",
-        "img_url": "image2.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.14270833333333333,
-            0.20610687022900764,
-            0.20104166666666667,
-            0.22614503816793893
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_22",
-        "task": "摘要1",
-        "img_url": "image3.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.025520833333333333,
-            0.21374045801526717,
-            0.12864583333333332,
-            0.25095419847328243
-        ],
-        "data_type": "icon",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_23",
-        "task": "科目1",
-        "img_url": "image3.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.13125,
-            0.21374045801526717,
-            0.23385416666666667,
-            0.25
-        ],
-        "data_type": "icon",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_24",
-        "task": "借方1",
-        "img_url": "image3.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.23489583333333333,
-            0.21469465648854963,
-            0.296875,
-            0.25190839694656486
-        ],
-        "data_type": "icon",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_25",
-        "task": "贷方1",
-        "img_url": "image3.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.29739583333333336,
-            0.21278625954198474,
-            0.35885416666666664,
-            0.2547709923664122
-        ],
-        "data_type": "icon",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_26",
-        "task": "摘要2",
-        "img_url": "image3.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.0265625,
-            0.2538167938931298,
-            0.1296875,
-            0.2900763358778626
-        ],
-        "data_type": "icon",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_27",
-        "task": "科目2",
-        "img_url": "image3.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.1296875,
-            0.2538167938931298,
-            0.23385416666666667,
-            0.2900763358778626
-        ],
-        "data_type": "icon",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_28",
-        "task": "借方2",
-        "img_url": "image3.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.234375,
-            0.2538167938931298,
-            0.29635416666666664,
-            0.2919847328244275
-        ],
-        "data_type": "icon",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_29",
-        "task": "贷方2",
-        "img_url": "image3.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.2984375,
-            0.2547709923664122,
-            0.35833333333333334,
-            0.28912213740458015
-        ],
-        "data_type": "icon",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_30",
-        "task": "凭证号",
-        "img_url": "image3.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.2630208333333333,
-            0.1364503816793893,
-            0.48125,
-            0.15744274809160305
-        ],
-        "data_type": "icon",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_31",
-        "task": "凭证类型",
-        "img_url": "image3.png",
-        "img_size": [
-            1920,
-            1048
-        ],
-        "bbox": [
-            0.0109375,
-            0.1383587786259542,
-            0.2359375,
-            0.15744274809160305
-        ],
-        "data_type": "icon",
-        "data_source": "Windows"
-    },
-    {
-        "split": "desktop",
-        "id": "screenspot_32",
-        "task": "确定",
-        "img_url": "image5.png",
-        "img_size": [
-            435,
-            236
-        ],
-        "bbox": [
-            0.5839080459770115,
-            0.847457627118644,
-            0.7724137931034483,
-            0.9449152542372882
-        ],
-        "data_type": "text",
-        "data_source": "Windows"
-    }
+  {
+    "split": "desktop",
+    "id": "screenspot_0",
+    "task": "请输入用户名",
+    "img_url": "image0.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1",
+    "task": "请输入密码",
+    "img_url": "image0.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2",
+    "task": "请登录",
+    "img_url": "image0.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3",
+    "task": "请重置",
+    "img_url": "image0.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_brightness1_15",
+    "task": "请输入用户名",
+    "img_url": "image0_bright114.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_brightness1_15",
+    "task": "请输入密码",
+    "img_url": "image0_bright114.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_brightness1_15",
+    "task": "请登录",
+    "img_url": "image0_bright114.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_brightness1_15",
+    "task": "请重置",
+    "img_url": "image0_bright114.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_v1",
+    "task": "请输入用户名",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      204,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_v1",
+    "task": "请输入密码",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      182,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_v1",
+    "task": "请登录",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      146,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_v1",
+    "task": "请重置",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      146,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_hue-19_2_brightness0_6",
+    "task": "请输入用户名",
+    "img_url": "image0_hue-19_bright60.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_hue-19_2_brightness0_6",
+    "task": "请输入密码",
+    "img_url": "image0_hue-19_bright60.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_hue-19_2_brightness0_6",
+    "task": "请登录",
+    "img_url": "image0_hue-19_bright60.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_hue-19_2_brightness0_6",
+    "task": "请重置",
+    "img_url": "image0_hue-19_bright60.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_brightness1_14",
+    "task": "请输入用户名",
+    "img_url": "image0_bright113.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_brightness1_14",
+    "task": "请输入密码",
+    "img_url": "image0_bright113.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_brightness1_14",
+    "task": "请登录",
+    "img_url": "image0_bright113.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_brightness1_14",
+    "task": "请重置",
+    "img_url": "image0_bright113.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_blur0_42_flip_h1",
+    "task": "请输入用户名",
+    "img_url": "image0_blur4_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      137,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_blur0_42_flip_h1",
+    "task": "请输入密码",
+    "img_url": "image0_blur4_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      142,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_blur0_42_flip_h1",
+    "task": "请登录",
+    "img_url": "image0_blur4_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      224,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_blur0_42_flip_h1",
+    "task": "请重置",
+    "img_url": "image0_blur4_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      140,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_hue-5_0",
+    "task": "请输入用户名",
+    "img_url": "image0_hue-5.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_hue-5_0",
+    "task": "请输入密码",
+    "img_url": "image0_hue-5.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_hue-5_0",
+    "task": "请登录",
+    "img_url": "image0_hue-5.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_hue-5_0",
+    "task": "请重置",
+    "img_url": "image0_hue-5.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_saturation1_23",
+    "task": "请输入用户名",
+    "img_url": "image0_sat123.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_saturation1_23",
+    "task": "请输入密码",
+    "img_url": "image0_sat123.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_saturation1_23",
+    "task": "请登录",
+    "img_url": "image0_sat123.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_saturation1_23",
+    "task": "请重置",
+    "img_url": "image0_sat123.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_noise0_1_hue-8_8",
+    "task": "请输入用户名",
+    "img_url": "image0_noise10_hue-8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_noise0_1_hue-8_8",
+    "task": "请输入密码",
+    "img_url": "image0_noise10_hue-8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_noise0_1_hue-8_8",
+    "task": "请登录",
+    "img_url": "image0_noise10_hue-8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_noise0_1_hue-8_8",
+    "task": "请重置",
+    "img_url": "image0_noise10_hue-8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_rotation26_6",
+    "task": "请输入用户名",
+    "img_url": "image0_rot26.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      300,
+      217,
+      183,
+      105
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_rotation26_6",
+    "task": "请输入密码",
+    "img_url": "image0_rot26.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      290,
+      237,
+      178,
+      102
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_rotation26_6",
+    "task": "请登录",
+    "img_url": "image0_rot26.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      300,
+      279,
+      80,
+      55
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_rotation26_6",
+    "task": "请重置",
+    "img_url": "image0_rot26.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      379,
+      321,
+      76,
+      51
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_scale0_92",
+    "task": "请输入用户名",
+    "img_url": "image0_scale92.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      283,
+      205,
+      179,
+      18
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_scale0_92",
+    "task": "请输入密码",
+    "img_url": "image0_scale92.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      283,
+      225,
+      174,
+      18
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_scale0_92",
+    "task": "请登录",
+    "img_url": "image0_scale92.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      310,
+      255,
+      72,
+      21
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_scale0_92",
+    "task": "请重置",
+    "img_url": "image0_scale92.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      391,
+      258,
+      69,
+      18
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_saturation1_03",
+    "task": "请输入用户名",
+    "img_url": "image0_sat103.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_saturation1_03",
+    "task": "请输入密码",
+    "img_url": "image0_sat103.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_saturation1_03",
+    "task": "请登录",
+    "img_url": "image0_sat103.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_saturation1_03",
+    "task": "请重置",
+    "img_url": "image0_sat103.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_scale1_13_noise0_122",
+    "task": "请输入用户名",
+    "img_url": "image0_scale112_noise12.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      348,
+      251,
+      220,
+      22
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_scale1_13_noise0_122",
+    "task": "请输入密码",
+    "img_url": "image0_scale112_noise12.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      348,
+      276,
+      214,
+      22
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_scale1_13_noise0_122",
+    "task": "请登录",
+    "img_url": "image0_scale112_noise12.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      380,
+      314,
+      89,
+      25
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_scale1_13_noise0_122",
+    "task": "请重置",
+    "img_url": "image0_scale112_noise12.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      480,
+      317,
+      84,
+      22
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_contrast0_98_noise0_103",
+    "task": "请输入用户名",
+    "img_url": "image0_contrast98_noise10.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_contrast0_98_noise0_103",
+    "task": "请输入密码",
+    "img_url": "image0_contrast98_noise10.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_contrast0_98_noise0_103",
+    "task": "请登录",
+    "img_url": "image0_contrast98_noise10.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_contrast0_98_noise0_103",
+    "task": "请重置",
+    "img_url": "image0_contrast98_noise10.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_rotation12_0",
+    "task": "请输入用户名",
+    "img_url": "image0_rot12.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      304,
+      220,
+      194,
+      60
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_rotation12_0",
+    "task": "请输入密码",
+    "img_url": "image0_rot12.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      299,
+      242,
+      190,
+      59
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_rotation12_0",
+    "task": "请登录",
+    "img_url": "image0_rot12.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      320,
+      280,
+      82,
+      38
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_rotation12_0",
+    "task": "请重置",
+    "img_url": "image0_rot12.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      406,
+      301,
+      77,
+      35
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_saturation1_25_brightness1_08",
+    "task": "请输入用户名",
+    "img_url": "image0_sat125_bright108.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_saturation1_25_brightness1_08",
+    "task": "请输入密码",
+    "img_url": "image0_sat125_bright108.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_saturation1_25_brightness1_08",
+    "task": "请登录",
+    "img_url": "image0_sat125_bright108.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_saturation1_25_brightness1_08",
+    "task": "请重置",
+    "img_url": "image0_sat125_bright108.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_contrast0_87_brightness0_61",
+    "task": "请输入用户名",
+    "img_url": "image0_contrast87_bright61.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_contrast0_87_brightness0_61",
+    "task": "请输入密码",
+    "img_url": "image0_contrast87_bright61.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_contrast0_87_brightness0_61",
+    "task": "请登录",
+    "img_url": "image0_contrast87_bright61.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_contrast0_87_brightness0_61",
+    "task": "请重置",
+    "img_url": "image0_contrast87_bright61.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_noise0_132_saturation0_74",
+    "task": "请输入用户名",
+    "img_url": "image0_noise13_sat74.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_noise0_132_saturation0_74",
+    "task": "请输入密码",
+    "img_url": "image0_noise13_sat74.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_noise0_132_saturation0_74",
+    "task": "请登录",
+    "img_url": "image0_noise13_sat74.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_noise0_132_saturation0_74",
+    "task": "请重置",
+    "img_url": "image0_noise13_sat74.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_saturation1_1",
+    "task": "请输入用户名",
+    "img_url": "image0_sat110.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_saturation1_1",
+    "task": "请输入密码",
+    "img_url": "image0_sat110.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_saturation1_1",
+    "task": "请登录",
+    "img_url": "image0_sat110.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_saturation1_1",
+    "task": "请重置",
+    "img_url": "image0_sat110.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_h1_scale1_08_hue-2_2",
+    "task": "请输入用户名",
+    "img_url": "image0_fliph_scale108_hue-2.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      147,
+      240,
+      210,
+      21
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_h1_scale1_08_hue-2_2",
+    "task": "请输入密码",
+    "img_url": "image0_fliph_scale108_hue-2.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      153,
+      264,
+      205,
+      21
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_h1_scale1_08_hue-2_2",
+    "task": "请登录",
+    "img_url": "image0_fliph_scale108_hue-2.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      241,
+      300,
+      85,
+      24
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_h1_scale1_08_hue-2_2",
+    "task": "请重置",
+    "img_url": "image0_fliph_scale108_hue-2.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      151,
+      303,
+      81,
+      21
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_h1",
+    "task": "请输入用户名",
+    "img_url": "image0_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      137,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_h1",
+    "task": "请输入密码",
+    "img_url": "image0_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      142,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_h1",
+    "task": "请登录",
+    "img_url": "image0_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      224,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_h1",
+    "task": "请重置",
+    "img_url": "image0_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      140,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_contrast1_26",
+    "task": "请输入用户名",
+    "img_url": "image0_contrast126.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_contrast1_26",
+    "task": "请输入密码",
+    "img_url": "image0_contrast126.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_contrast1_26",
+    "task": "请登录",
+    "img_url": "image0_contrast126.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_contrast1_26",
+    "task": "请重置",
+    "img_url": "image0_contrast126.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_saturation1_12_contrast0_91_noise0_042",
+    "task": "请输入用户名",
+    "img_url": "image0_sat112_contrast91_noise4.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_saturation1_12_contrast0_91_noise0_042",
+    "task": "请输入密码",
+    "img_url": "image0_sat112_contrast91_noise4.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_saturation1_12_contrast0_91_noise0_042",
+    "task": "请登录",
+    "img_url": "image0_sat112_contrast91_noise4.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_saturation1_12_contrast0_91_noise0_042",
+    "task": "请重置",
+    "img_url": "image0_sat112_contrast91_noise4.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_scale1_13_flip_h1",
+    "task": "请输入用户名",
+    "img_url": "image0_scale112_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      72,
+      251,
+      220,
+      22
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_scale1_13_flip_h1",
+    "task": "请输入密码",
+    "img_url": "image0_scale112_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      78,
+      276,
+      214,
+      22
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_scale1_13_flip_h1",
+    "task": "请登录",
+    "img_url": "image0_scale112_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      171,
+      314,
+      89,
+      25
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_scale1_13_flip_h1",
+    "task": "请重置",
+    "img_url": "image0_scale112_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      76,
+      317,
+      84,
+      22
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_saturation1_19",
+    "task": "请输入用户名",
+    "img_url": "image0_sat119.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_saturation1_19",
+    "task": "请输入密码",
+    "img_url": "image0_sat119.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_saturation1_19",
+    "task": "请登录",
+    "img_url": "image0_sat119.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_saturation1_19",
+    "task": "请重置",
+    "img_url": "image0_sat119.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_rotation-27_2",
+    "task": "请输入用户名",
+    "img_url": "image0_rot-27.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      309,
+      139,
+      182,
+      106
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_rotation-27_2",
+    "task": "请输入密码",
+    "img_url": "image0_rot-27.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      319,
+      161,
+      178,
+      104
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_rotation-27_2",
+    "task": "请登录",
+    "img_url": "image0_rot-27.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      360,
+      228,
+      80,
+      56
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_rotation-27_2",
+    "task": "请重置",
+    "img_url": "image0_rot-27.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      439,
+      192,
+      75,
+      52
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_hue-2_7_contrast0_91",
+    "task": "请输入用户名",
+    "img_url": "image0_hue-2_contrast91.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_hue-2_7_contrast0_91",
+    "task": "请输入密码",
+    "img_url": "image0_hue-2_contrast91.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_hue-2_7_contrast0_91",
+    "task": "请登录",
+    "img_url": "image0_hue-2_contrast91.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_hue-2_7_contrast0_91",
+    "task": "请重置",
+    "img_url": "image0_hue-2_contrast91.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_contrast0_73_blur0_83_noise0_143",
+    "task": "请输入用户名",
+    "img_url": "image0_contrast73_blur8_noise14.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_contrast0_73_blur0_83_noise0_143",
+    "task": "请输入密码",
+    "img_url": "image0_contrast73_blur8_noise14.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_contrast0_73_blur0_83_noise0_143",
+    "task": "请登录",
+    "img_url": "image0_contrast73_blur8_noise14.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_contrast0_73_blur0_83_noise0_143",
+    "task": "请重置",
+    "img_url": "image0_contrast73_blur8_noise14.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_v1",
+    "task": "请输入用户名",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      204,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_v1",
+    "task": "请输入密码",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      182,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_v1",
+    "task": "请登录",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      146,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_v1",
+    "task": "请重置",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      146,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_v1_rotation10_0_noise0_139",
+    "task": "请输入用户名",
+    "img_url": "image0_flipv_rot10_noise13.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      202,
+      195,
+      53
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_v1_rotation10_0_noise0_139",
+    "task": "请输入密码",
+    "img_url": "image0_flipv_rot10_noise13.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      311,
+      180,
+      190,
+      52
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_v1_rotation10_0_noise0_139",
+    "task": "请登录",
+    "img_url": "image0_flipv_rot10_noise13.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      346,
+      150,
+      81,
+      36
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_v1_rotation10_0_noise0_139",
+    "task": "请重置",
+    "img_url": "image0_flipv_rot10_noise13.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      433,
+      165,
+      77,
+      32
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_scale1_06_saturation0_71",
+    "task": "请输入用户名",
+    "img_url": "image0_scale106_sat71.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      326,
+      236,
+      206,
+      21
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_scale1_06_saturation0_71",
+    "task": "请输入密码",
+    "img_url": "image0_scale106_sat71.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      326,
+      259,
+      201,
+      21
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_scale1_06_saturation0_71",
+    "task": "请登录",
+    "img_url": "image0_scale106_sat71.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      357,
+      294,
+      83,
+      24
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_scale1_06_saturation0_71",
+    "task": "请重置",
+    "img_url": "image0_scale106_sat71.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      450,
+      297,
+      79,
+      21
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_h1_brightness1_33_hue-2_2",
+    "task": "请输入用户名",
+    "img_url": "image0_fliph_bright133_hue-2.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      137,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_h1_brightness1_33_hue-2_2",
+    "task": "请输入密码",
+    "img_url": "image0_fliph_bright133_hue-2.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      142,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_h1_brightness1_33_hue-2_2",
+    "task": "请登录",
+    "img_url": "image0_fliph_bright133_hue-2.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      224,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_h1_brightness1_33_hue-2_2",
+    "task": "请重置",
+    "img_url": "image0_fliph_bright133_hue-2.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      140,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_rotation8_1_brightness1_09_saturation1_08",
+    "task": "请输入用户名",
+    "img_url": "image0_rot8_bright109_sat108.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      305,
+      221,
+      195,
+      47
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_rotation8_1_brightness1_09_saturation1_08",
+    "task": "请输入密码",
+    "img_url": "image0_rot8_bright109_sat108.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      302,
+      243,
+      190,
+      46
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_rotation8_1_brightness1_09_saturation1_08",
+    "task": "请登录",
+    "img_url": "image0_rot8_bright109_sat108.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      325,
+      279,
+      81,
+      33
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_rotation8_1_brightness1_09_saturation1_08",
+    "task": "请重置",
+    "img_url": "image0_rot8_bright109_sat108.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      413,
+      295,
+      77,
+      30
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_hue-3_7_scale1_03",
+    "task": "请输入用户名",
+    "img_url": "image0_hue-3_scale103.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      317,
+      229,
+      200,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_hue-3_7_scale1_03",
+    "task": "请输入密码",
+    "img_url": "image0_hue-3_scale103.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      317,
+      252,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_hue-3_7_scale1_03",
+    "task": "请登录",
+    "img_url": "image0_hue-3_scale103.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      347,
+      286,
+      81,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_hue-3_7_scale1_03",
+    "task": "请重置",
+    "img_url": "image0_hue-3_scale103.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      437,
+      289,
+      77,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_scale0_91",
+    "task": "请输入用户名",
+    "img_url": "image0_scale91.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      280,
+      202,
+      177,
+      18
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_scale0_91",
+    "task": "请输入密码",
+    "img_url": "image0_scale91.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      280,
+      222,
+      172,
+      18
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_scale0_91",
+    "task": "请登录",
+    "img_url": "image0_scale91.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      306,
+      252,
+      71,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_scale0_91",
+    "task": "请重置",
+    "img_url": "image0_scale91.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      386,
+      255,
+      68,
+      18
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_blur0_35_flip_h1",
+    "task": "请输入用户名",
+    "img_url": "image0_blur3_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      137,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_blur0_35_flip_h1",
+    "task": "请输入密码",
+    "img_url": "image0_blur3_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      142,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_blur0_35_flip_h1",
+    "task": "请登录",
+    "img_url": "image0_blur3_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      224,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_blur0_35_flip_h1",
+    "task": "请重置",
+    "img_url": "image0_blur3_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      140,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_hue-15_4",
+    "task": "请输入用户名",
+    "img_url": "image0_hue-15.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_hue-15_4",
+    "task": "请输入密码",
+    "img_url": "image0_hue-15.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_hue-15_4",
+    "task": "请登录",
+    "img_url": "image0_hue-15.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_hue-15_4",
+    "task": "请重置",
+    "img_url": "image0_hue-15.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_scale0_99",
+    "task": "请输入用户名",
+    "img_url": "image0_scale99.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      304,
+      220,
+      193,
+      19
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_scale0_99",
+    "task": "请输入密码",
+    "img_url": "image0_scale99.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      304,
+      242,
+      188,
+      19
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_scale0_99",
+    "task": "请登录",
+    "img_url": "image0_scale99.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      333,
+      275,
+      78,
+      22
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_scale0_99",
+    "task": "请重置",
+    "img_url": "image0_scale99.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      420,
+      278,
+      74,
+      19
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_brightness1_03_flip_v1_scale0_96",
+    "task": "请输入用户名",
+    "img_url": "image0_bright103_flipv_scale96.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      295,
+      195,
+      187,
+      19
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_brightness1_03_flip_v1_scale0_96",
+    "task": "请输入密码",
+    "img_url": "image0_bright103_flipv_scale96.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      295,
+      174,
+      182,
+      19
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_brightness1_03_flip_v1_scale0_96",
+    "task": "请登录",
+    "img_url": "image0_bright103_flipv_scale96.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      323,
+      140,
+      75,
+      22
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_brightness1_03_flip_v1_scale0_96",
+    "task": "请重置",
+    "img_url": "image0_bright103_flipv_scale96.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      408,
+      140,
+      72,
+      19
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_blur1_46_contrast1_2_scale1_05",
+    "task": "请输入用户名",
+    "img_url": "image0_blur14_contrast120_scale105.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      323,
+      234,
+      204,
+      21
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_blur1_46_contrast1_2_scale1_05",
+    "task": "请输入密码",
+    "img_url": "image0_blur14_contrast120_scale105.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      323,
+      257,
+      199,
+      21
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_blur1_46_contrast1_2_scale1_05",
+    "task": "请登录",
+    "img_url": "image0_blur14_contrast120_scale105.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      353,
+      291,
+      82,
+      24
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_blur1_46_contrast1_2_scale1_05",
+    "task": "请重置",
+    "img_url": "image0_blur14_contrast120_scale105.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      446,
+      295,
+      78,
+      21
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_hue-10_0_blur0_39",
+    "task": "请输入用户名",
+    "img_url": "image0_hue-10_blur3.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_hue-10_0_blur0_39",
+    "task": "请输入密码",
+    "img_url": "image0_hue-10_blur3.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_hue-10_0_blur0_39",
+    "task": "请登录",
+    "img_url": "image0_hue-10_blur3.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_hue-10_0_blur0_39",
+    "task": "请重置",
+    "img_url": "image0_hue-10_blur3.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_hue3_8_flip_h1",
+    "task": "请输入用户名",
+    "img_url": "image0_hue3_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      137,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_hue3_8_flip_h1",
+    "task": "请输入密码",
+    "img_url": "image0_hue3_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      142,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_hue3_8_flip_h1",
+    "task": "请登录",
+    "img_url": "image0_hue3_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      224,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_hue3_8_flip_h1",
+    "task": "请重置",
+    "img_url": "image0_hue3_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      140,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_contrast1_17_saturation1_16",
+    "task": "请输入用户名",
+    "img_url": "image0_contrast117_sat115.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_contrast1_17_saturation1_16",
+    "task": "请输入密码",
+    "img_url": "image0_contrast117_sat115.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_contrast1_17_saturation1_16",
+    "task": "请登录",
+    "img_url": "image0_contrast117_sat115.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_contrast1_17_saturation1_16",
+    "task": "请重置",
+    "img_url": "image0_contrast117_sat115.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_hue-10_9_blur1_21",
+    "task": "请输入用户名",
+    "img_url": "image0_hue-10_blur12.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_hue-10_9_blur1_21",
+    "task": "请输入密码",
+    "img_url": "image0_hue-10_blur12.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_hue-10_9_blur1_21",
+    "task": "请登录",
+    "img_url": "image0_hue-10_blur12.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_hue-10_9_blur1_21",
+    "task": "请重置",
+    "img_url": "image0_hue-10_blur12.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_noise0_016_blur0_88",
+    "task": "请输入用户名",
+    "img_url": "image0_noise1_blur8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_noise0_016_blur0_88",
+    "task": "请输入密码",
+    "img_url": "image0_noise1_blur8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_noise0_016_blur0_88",
+    "task": "请登录",
+    "img_url": "image0_noise1_blur8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_noise0_016_blur0_88",
+    "task": "请重置",
+    "img_url": "image0_noise1_blur8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_hue-0_6",
+    "task": "请输入用户名",
+    "img_url": "image0_hue0.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_hue-0_6",
+    "task": "请输入密码",
+    "img_url": "image0_hue0.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_hue-0_6",
+    "task": "请登录",
+    "img_url": "image0_hue0.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_hue-0_6",
+    "task": "请重置",
+    "img_url": "image0_hue0.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_noise0_04_scale0_85",
+    "task": "请输入用户名",
+    "img_url": "image0_noise4_scale85.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      261,
+      189,
+      165,
+      17
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_noise0_04_scale0_85",
+    "task": "请输入密码",
+    "img_url": "image0_noise4_scale85.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      261,
+      208,
+      161,
+      17
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_noise0_04_scale0_85",
+    "task": "请登录",
+    "img_url": "image0_noise4_scale85.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      286,
+      236,
+      67,
+      19
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_noise0_04_scale0_85",
+    "task": "请重置",
+    "img_url": "image0_noise4_scale85.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      361,
+      238,
+      63,
+      17
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_saturation1_29_flip_h1_brightness1_35",
+    "task": "请输入用户名",
+    "img_url": "image0_sat129_fliph_bright135.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      137,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_saturation1_29_flip_h1_brightness1_35",
+    "task": "请输入密码",
+    "img_url": "image0_sat129_fliph_bright135.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      142,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_saturation1_29_flip_h1_brightness1_35",
+    "task": "请登录",
+    "img_url": "image0_sat129_fliph_bright135.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      224,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_saturation1_29_flip_h1_brightness1_35",
+    "task": "请重置",
+    "img_url": "image0_sat129_fliph_bright135.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      140,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_scale0_96_contrast0_94",
+    "task": "请输入用户名",
+    "img_url": "image0_scale96_contrast94.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      295,
+      214,
+      187,
+      19
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_scale0_96_contrast0_94",
+    "task": "请输入密码",
+    "img_url": "image0_scale96_contrast94.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      295,
+      235,
+      182,
+      19
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_scale0_96_contrast0_94",
+    "task": "请登录",
+    "img_url": "image0_scale96_contrast94.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      323,
+      266,
+      75,
+      22
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_scale0_96_contrast0_94",
+    "task": "请重置",
+    "img_url": "image0_scale96_contrast94.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      408,
+      269,
+      72,
+      19
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_brightness0_94",
+    "task": "请输入用户名",
+    "img_url": "image0_bright94.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_brightness0_94",
+    "task": "请输入密码",
+    "img_url": "image0_bright94.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_brightness0_94",
+    "task": "请登录",
+    "img_url": "image0_bright94.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_brightness0_94",
+    "task": "请重置",
+    "img_url": "image0_bright94.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_v1_blur1_21",
+    "task": "请输入用户名",
+    "img_url": "image0_flipv_blur12.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      204,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_v1_blur1_21",
+    "task": "请输入密码",
+    "img_url": "image0_flipv_blur12.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      182,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_v1_blur1_21",
+    "task": "请登录",
+    "img_url": "image0_flipv_blur12.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      146,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_v1_blur1_21",
+    "task": "请重置",
+    "img_url": "image0_flipv_blur12.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      146,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_noise0_04",
+    "task": "请输入用户名",
+    "img_url": "image0_noise4.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_noise0_04",
+    "task": "请输入密码",
+    "img_url": "image0_noise4.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_noise0_04",
+    "task": "请登录",
+    "img_url": "image0_noise4.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_noise0_04",
+    "task": "请重置",
+    "img_url": "image0_noise4.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_contrast0_98_rotation26_9_blur0_33",
+    "task": "请输入用户名",
+    "img_url": "image0_contrast98_rot26_blur3.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      300,
+      217,
+      182,
+      106
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_contrast0_98_rotation26_9_blur0_33",
+    "task": "请输入密码",
+    "img_url": "image0_contrast98_rot26_blur3.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      290,
+      237,
+      178,
+      103
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_contrast0_98_rotation26_9_blur0_33",
+    "task": "请登录",
+    "img_url": "image0_contrast98_rot26_blur3.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      300,
+      279,
+      80,
+      56
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_contrast0_98_rotation26_9_blur0_33",
+    "task": "请重置",
+    "img_url": "image0_contrast98_rot26_blur3.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      378,
+      322,
+      75,
+      51
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_v1",
+    "task": "请输入用户名",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      204,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_v1",
+    "task": "请输入密码",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      182,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_v1",
+    "task": "请登录",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      146,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_v1",
+    "task": "请重置",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      146,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_h1_flip_v1_noise0_087",
+    "task": "请输入用户名",
+    "img_url": "image0_fliph_flipv_noise8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      137,
+      204,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_h1_flip_v1_noise0_087",
+    "task": "请输入密码",
+    "img_url": "image0_fliph_flipv_noise8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      142,
+      182,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_h1_flip_v1_noise0_087",
+    "task": "请登录",
+    "img_url": "image0_fliph_flipv_noise8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      224,
+      146,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_h1_flip_v1_noise0_087",
+    "task": "请重置",
+    "img_url": "image0_fliph_flipv_noise8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      140,
+      146,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_v1",
+    "task": "请输入用户名",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      204,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_v1",
+    "task": "请输入密码",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      182,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_v1",
+    "task": "请登录",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      146,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_v1",
+    "task": "请重置",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      146,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_saturation1_24",
+    "task": "请输入用户名",
+    "img_url": "image0_sat124.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_saturation1_24",
+    "task": "请输入密码",
+    "img_url": "image0_sat124.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_saturation1_24",
+    "task": "请登录",
+    "img_url": "image0_sat124.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_saturation1_24",
+    "task": "请重置",
+    "img_url": "image0_sat124.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_blur0_9",
+    "task": "请输入用户名",
+    "img_url": "image0_blur9.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_blur0_9",
+    "task": "请输入密码",
+    "img_url": "image0_blur9.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_blur0_9",
+    "task": "请登录",
+    "img_url": "image0_blur9.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_blur0_9",
+    "task": "请重置",
+    "img_url": "image0_blur9.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_scale0_99_hue-19_7",
+    "task": "请输入用户名",
+    "img_url": "image0_scale99_hue-19.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      304,
+      220,
+      193,
+      19
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_scale0_99_hue-19_7",
+    "task": "请输入密码",
+    "img_url": "image0_scale99_hue-19.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      304,
+      242,
+      188,
+      19
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_scale0_99_hue-19_7",
+    "task": "请登录",
+    "img_url": "image0_scale99_hue-19.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      333,
+      275,
+      78,
+      22
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_scale0_99_hue-19_7",
+    "task": "请重置",
+    "img_url": "image0_scale99_hue-19.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      420,
+      278,
+      74,
+      19
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_v1_contrast0_86_hue-6_9",
+    "task": "请输入用户名",
+    "img_url": "image0_flipv_contrast86_hue-6.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      204,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_v1_contrast0_86_hue-6_9",
+    "task": "请输入密码",
+    "img_url": "image0_flipv_contrast86_hue-6.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      182,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_v1_contrast0_86_hue-6_9",
+    "task": "请登录",
+    "img_url": "image0_flipv_contrast86_hue-6.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      146,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_v1_contrast0_86_hue-6_9",
+    "task": "请重置",
+    "img_url": "image0_flipv_contrast86_hue-6.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      146,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_scale0_99_flip_h1",
+    "task": "请输入用户名",
+    "img_url": "image0_scale99_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      143,
+      220,
+      193,
+      19
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_scale0_99_flip_h1",
+    "task": "请输入密码",
+    "img_url": "image0_scale99_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      148,
+      242,
+      188,
+      19
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_scale0_99_flip_h1",
+    "task": "请登录",
+    "img_url": "image0_scale99_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      229,
+      275,
+      78,
+      22
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_scale0_99_flip_h1",
+    "task": "请重置",
+    "img_url": "image0_scale99_fliph.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      146,
+      278,
+      74,
+      19
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_contrast1_1",
+    "task": "请输入用户名",
+    "img_url": "image0_contrast110.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_contrast1_1",
+    "task": "请输入密码",
+    "img_url": "image0_contrast110.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_contrast1_1",
+    "task": "请登录",
+    "img_url": "image0_contrast110.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_contrast1_1",
+    "task": "请重置",
+    "img_url": "image0_contrast110.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_v1",
+    "task": "请输入用户名",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      204,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_v1",
+    "task": "请输入密码",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      182,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_v1",
+    "task": "请登录",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      146,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_v1",
+    "task": "请重置",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      146,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_brightness1_35",
+    "task": "请输入用户名",
+    "img_url": "image0_bright135.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_brightness1_35",
+    "task": "请输入密码",
+    "img_url": "image0_bright135.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_brightness1_35",
+    "task": "请登录",
+    "img_url": "image0_bright135.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_brightness1_35",
+    "task": "请重置",
+    "img_url": "image0_bright135.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_hue-14_4_flip_v1",
+    "task": "请输入用户名",
+    "img_url": "image0_hue-14_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      204,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_hue-14_4_flip_v1",
+    "task": "请输入密码",
+    "img_url": "image0_hue-14_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      182,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_hue-14_4_flip_v1",
+    "task": "请登录",
+    "img_url": "image0_hue-14_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      146,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_hue-14_4_flip_v1",
+    "task": "请重置",
+    "img_url": "image0_hue-14_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      146,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_brightness1_26_saturation0_98",
+    "task": "请输入用户名",
+    "img_url": "image0_bright126_sat98.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_brightness1_26_saturation0_98",
+    "task": "请输入密码",
+    "img_url": "image0_bright126_sat98.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_brightness1_26_saturation0_98",
+    "task": "请登录",
+    "img_url": "image0_bright126_sat98.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_brightness1_26_saturation0_98",
+    "task": "请重置",
+    "img_url": "image0_bright126_sat98.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_noise0_072_saturation1_12",
+    "task": "请输入用户名",
+    "img_url": "image0_noise7_sat112.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_noise0_072_saturation1_12",
+    "task": "请输入密码",
+    "img_url": "image0_noise7_sat112.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_noise0_072_saturation1_12",
+    "task": "请登录",
+    "img_url": "image0_noise7_sat112.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_noise0_072_saturation1_12",
+    "task": "请重置",
+    "img_url": "image0_noise7_sat112.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_v1",
+    "task": "请输入用户名",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      204,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_v1",
+    "task": "请输入密码",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      182,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_v1",
+    "task": "请登录",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      146,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_v1",
+    "task": "请重置",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      146,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_rotation10_7",
+    "task": "请输入用户名",
+    "img_url": "image0_rot10.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      304,
+      220,
+      195,
+      55
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_rotation10_7",
+    "task": "请输入密码",
+    "img_url": "image0_rot10.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      300,
+      242,
+      190,
+      54
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_rotation10_7",
+    "task": "请登录",
+    "img_url": "image0_rot10.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      322,
+      280,
+      81,
+      37
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_rotation10_7",
+    "task": "请重置",
+    "img_url": "image0_rot10.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      408,
+      299,
+      77,
+      33
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_scale1_09",
+    "task": "请输入用户名",
+    "img_url": "image0_scale109.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      335,
+      243,
+      212,
+      21
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_scale1_09",
+    "task": "请输入密码",
+    "img_url": "image0_scale109.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      335,
+      267,
+      207,
+      21
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_scale1_09",
+    "task": "请登录",
+    "img_url": "image0_scale109.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      367,
+      303,
+      86,
+      25
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_scale1_09",
+    "task": "请重置",
+    "img_url": "image0_scale109.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      463,
+      306,
+      81,
+      21
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_contrast1_24",
+    "task": "请输入用户名",
+    "img_url": "image0_contrast124.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_contrast1_24",
+    "task": "请输入密码",
+    "img_url": "image0_contrast124.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_contrast1_24",
+    "task": "请登录",
+    "img_url": "image0_contrast124.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_contrast1_24",
+    "task": "请重置",
+    "img_url": "image0_contrast124.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_blur0_38_hue-0_2",
+    "task": "请输入用户名",
+    "img_url": "image0_blur3_hue0.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_blur0_38_hue-0_2",
+    "task": "请输入密码",
+    "img_url": "image0_blur3_hue0.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_blur0_38_hue-0_2",
+    "task": "请登录",
+    "img_url": "image0_blur3_hue0.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_blur0_38_hue-0_2",
+    "task": "请重置",
+    "img_url": "image0_blur3_hue0.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_scale0_86_hue-5_4",
+    "task": "请输入用户名",
+    "img_url": "image0_scale86_hue-5.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      264,
+      191,
+      167,
+      17
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_scale0_86_hue-5_4",
+    "task": "请输入密码",
+    "img_url": "image0_scale86_hue-5.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      264,
+      210,
+      163,
+      17
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_scale0_86_hue-5_4",
+    "task": "请登录",
+    "img_url": "image0_scale86_hue-5.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      289,
+      239,
+      67,
+      19
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_scale0_86_hue-5_4",
+    "task": "请重置",
+    "img_url": "image0_scale86_hue-5.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      365,
+      241,
+      64,
+      17
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_blur0_76_flip_h1_hue10_4",
+    "task": "请输入用户名",
+    "img_url": "image0_blur7_fliph_hue10.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      137,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_blur0_76_flip_h1_hue10_4",
+    "task": "请输入密码",
+    "img_url": "image0_blur7_fliph_hue10.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      142,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_blur0_76_flip_h1_hue10_4",
+    "task": "请登录",
+    "img_url": "image0_blur7_fliph_hue10.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      224,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_blur0_76_flip_h1_hue10_4",
+    "task": "请重置",
+    "img_url": "image0_blur7_fliph_hue10.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      140,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_brightness0_95",
+    "task": "请输入用户名",
+    "img_url": "image0_bright95.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_brightness0_95",
+    "task": "请输入密码",
+    "img_url": "image0_bright95.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_brightness0_95",
+    "task": "请登录",
+    "img_url": "image0_bright95.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_brightness0_95",
+    "task": "请重置",
+    "img_url": "image0_bright95.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_brightness0_97",
+    "task": "请输入用户名",
+    "img_url": "image0_bright97.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_brightness0_97",
+    "task": "请输入密码",
+    "img_url": "image0_bright97.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_brightness0_97",
+    "task": "请登录",
+    "img_url": "image0_bright97.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_brightness0_97",
+    "task": "请重置",
+    "img_url": "image0_bright97.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_contrast0_93",
+    "task": "请输入用户名",
+    "img_url": "image0_contrast93.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_contrast0_93",
+    "task": "请输入密码",
+    "img_url": "image0_contrast93.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_contrast0_93",
+    "task": "请登录",
+    "img_url": "image0_contrast93.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_contrast0_93",
+    "task": "请重置",
+    "img_url": "image0_contrast93.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_brightness1_26_saturation0_82",
+    "task": "请输入用户名",
+    "img_url": "image0_bright126_sat82.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_brightness1_26_saturation0_82",
+    "task": "请输入密码",
+    "img_url": "image0_bright126_sat82.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_brightness1_26_saturation0_82",
+    "task": "请登录",
+    "img_url": "image0_bright126_sat82.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_brightness1_26_saturation0_82",
+    "task": "请重置",
+    "img_url": "image0_bright126_sat82.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_contrast0_78_hue8_5",
+    "task": "请输入用户名",
+    "img_url": "image0_contrast78_hue8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_contrast0_78_hue8_5",
+    "task": "请输入密码",
+    "img_url": "image0_contrast78_hue8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_contrast0_78_hue8_5",
+    "task": "请登录",
+    "img_url": "image0_contrast78_hue8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_contrast0_78_hue8_5",
+    "task": "请重置",
+    "img_url": "image0_contrast78_hue8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_rotation6_3",
+    "task": "请输入用户名",
+    "img_url": "image0_rot6.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      305,
+      221,
+      196,
+      41
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_rotation6_3",
+    "task": "请输入密码",
+    "img_url": "image0_rot6.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      303,
+      243,
+      191,
+      40
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_rotation6_3",
+    "task": "请登录",
+    "img_url": "image0_rot6.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      328,
+      279,
+      81,
+      31
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_rotation6_3",
+    "task": "请重置",
+    "img_url": "image0_rot6.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      415,
+      292,
+      76,
+      28
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_hue-8_8",
+    "task": "请输入用户名",
+    "img_url": "image0_hue-8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_hue-8_8",
+    "task": "请输入密码",
+    "img_url": "image0_hue-8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_hue-8_8",
+    "task": "请登录",
+    "img_url": "image0_hue-8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_hue-8_8",
+    "task": "请重置",
+    "img_url": "image0_hue-8.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_hue-5_5_saturation1_22",
+    "task": "请输入用户名",
+    "img_url": "image0_hue-5_sat122.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_hue-5_5_saturation1_22",
+    "task": "请输入密码",
+    "img_url": "image0_hue-5_sat122.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_hue-5_5_saturation1_22",
+    "task": "请登录",
+    "img_url": "image0_hue-5_sat122.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_hue-5_5_saturation1_22",
+    "task": "请重置",
+    "img_url": "image0_hue-5_sat122.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_v1_noise0_095",
+    "task": "请输入用户名",
+    "img_url": "image0_flipv_noise9.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      204,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_v1_noise0_095",
+    "task": "请输入密码",
+    "img_url": "image0_flipv_noise9.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      182,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_v1_noise0_095",
+    "task": "请登录",
+    "img_url": "image0_flipv_noise9.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      146,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_v1_noise0_095",
+    "task": "请重置",
+    "img_url": "image0_flipv_noise9.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      146,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_blur0_64",
+    "task": "请输入用户名",
+    "img_url": "image0_blur6.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_blur0_64",
+    "task": "请输入密码",
+    "img_url": "image0_blur6.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_blur0_64",
+    "task": "请登录",
+    "img_url": "image0_blur6.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_blur0_64",
+    "task": "请重置",
+    "img_url": "image0_blur6.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_v1",
+    "task": "请输入用户名",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      204,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_v1",
+    "task": "请输入密码",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      182,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_v1",
+    "task": "请登录",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      146,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_v1",
+    "task": "请重置",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      146,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_saturation0_89_hue-4_3",
+    "task": "请输入用户名",
+    "img_url": "image0_sat89_hue-4.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_saturation0_89_hue-4_3",
+    "task": "请输入密码",
+    "img_url": "image0_sat89_hue-4.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_saturation0_89_hue-4_3",
+    "task": "请登录",
+    "img_url": "image0_sat89_hue-4.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_saturation0_89_hue-4_3",
+    "task": "请重置",
+    "img_url": "image0_sat89_hue-4.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_contrast0_73",
+    "task": "请输入用户名",
+    "img_url": "image0_contrast73.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_contrast0_73",
+    "task": "请输入密码",
+    "img_url": "image0_contrast73.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_contrast0_73",
+    "task": "请登录",
+    "img_url": "image0_contrast73.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_contrast0_73",
+    "task": "请重置",
+    "img_url": "image0_contrast73.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_h1_blur0_55",
+    "task": "请输入用户名",
+    "img_url": "image0_fliph_blur5.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      137,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_h1_blur0_55",
+    "task": "请输入密码",
+    "img_url": "image0_fliph_blur5.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      142,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_h1_blur0_55",
+    "task": "请登录",
+    "img_url": "image0_fliph_blur5.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      224,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_h1_blur0_55",
+    "task": "请重置",
+    "img_url": "image0_fliph_blur5.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      140,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_contrast1_29",
+    "task": "请输入用户名",
+    "img_url": "image0_contrast129.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_contrast1_29",
+    "task": "请输入密码",
+    "img_url": "image0_contrast129.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_contrast1_29",
+    "task": "请登录",
+    "img_url": "image0_contrast129.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_contrast1_29",
+    "task": "请重置",
+    "img_url": "image0_contrast129.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_contrast0_92",
+    "task": "请输入用户名",
+    "img_url": "image0_contrast92.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_contrast0_92",
+    "task": "请输入密码",
+    "img_url": "image0_contrast92.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_contrast0_92",
+    "task": "请登录",
+    "img_url": "image0_contrast92.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_contrast0_92",
+    "task": "请重置",
+    "img_url": "image0_contrast92.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_noise0_109_rotation-22_7_saturation1_22",
+    "task": "请输入用户名",
+    "img_url": "image0_noise10_rot-22_sat122.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      152,
+      187,
+      93
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_noise0_109_rotation-22_7_saturation1_22",
+    "task": "请输入密码",
+    "img_url": "image0_noise10_rot-22_sat122.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      317,
+      174,
+      183,
+      91
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_noise0_109_rotation-22_7_saturation1_22",
+    "task": "请登录",
+    "img_url": "image0_noise10_rot-22_sat122.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      356,
+      236,
+      81,
+      51
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_noise0_109_rotation-22_7_saturation1_22",
+    "task": "请重置",
+    "img_url": "image0_noise10_rot-22_sat122.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      439,
+      207,
+      76,
+      47
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_v1",
+    "task": "请输入用户名",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      204,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_v1",
+    "task": "请输入密码",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      182,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_v1",
+    "task": "请登录",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      146,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_v1",
+    "task": "请重置",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      146,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_v1_saturation0_83",
+    "task": "请输入用户名",
+    "img_url": "image0_flipv_sat83.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      204,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_v1_saturation0_83",
+    "task": "请输入密码",
+    "img_url": "image0_flipv_sat83.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      182,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_v1_saturation0_83",
+    "task": "请登录",
+    "img_url": "image0_flipv_sat83.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      146,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_v1_saturation0_83",
+    "task": "请重置",
+    "img_url": "image0_flipv_sat83.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      146,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_h1_blur0_99_noise0_115",
+    "task": "请输入用户名",
+    "img_url": "image0_fliph_blur9_noise11.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      137,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_h1_blur0_99_noise0_115",
+    "task": "请输入密码",
+    "img_url": "image0_fliph_blur9_noise11.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      142,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_h1_blur0_99_noise0_115",
+    "task": "请登录",
+    "img_url": "image0_fliph_blur9_noise11.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      224,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_h1_blur0_99_noise0_115",
+    "task": "请重置",
+    "img_url": "image0_fliph_blur9_noise11.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      140,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_saturation1_25_brightness1_18",
+    "task": "请输入用户名",
+    "img_url": "image0_sat125_bright118.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_saturation1_25_brightness1_18",
+    "task": "请输入密码",
+    "img_url": "image0_sat125_bright118.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_saturation1_25_brightness1_18",
+    "task": "请登录",
+    "img_url": "image0_sat125_bright118.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_saturation1_25_brightness1_18",
+    "task": "请重置",
+    "img_url": "image0_sat125_bright118.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_rotation11_2",
+    "task": "请输入用户名",
+    "img_url": "image0_rot11.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      304,
+      220,
+      195,
+      57
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_rotation11_2",
+    "task": "请输入密码",
+    "img_url": "image0_rot11.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      300,
+      242,
+      190,
+      56
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_rotation11_2",
+    "task": "请登录",
+    "img_url": "image0_rot11.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      321,
+      280,
+      81,
+      37
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_rotation11_2",
+    "task": "请重置",
+    "img_url": "image0_rot11.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      407,
+      300,
+      77,
+      34
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_h1_brightness1_09_hue-7_8",
+    "task": "请输入用户名",
+    "img_url": "image0_fliph_bright109_hue-7.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      137,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_h1_brightness1_09_hue-7_8",
+    "task": "请输入密码",
+    "img_url": "image0_fliph_bright109_hue-7.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      142,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_h1_brightness1_09_hue-7_8",
+    "task": "请登录",
+    "img_url": "image0_fliph_bright109_hue-7.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      224,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_h1_brightness1_09_hue-7_8",
+    "task": "请重置",
+    "img_url": "image0_fliph_bright109_hue-7.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      140,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_brightness1_02",
+    "task": "请输入用户名",
+    "img_url": "image0_bright102.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_brightness1_02",
+    "task": "请输入密码",
+    "img_url": "image0_bright102.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_brightness1_02",
+    "task": "请登录",
+    "img_url": "image0_bright102.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_brightness1_02",
+    "task": "请重置",
+    "img_url": "image0_bright102.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_v1_flip_h1_blur0_91",
+    "task": "请输入用户名",
+    "img_url": "image0_flipv_fliph_blur9.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      137,
+      204,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_v1_flip_h1_blur0_91",
+    "task": "请输入密码",
+    "img_url": "image0_flipv_fliph_blur9.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      142,
+      182,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_v1_flip_h1_blur0_91",
+    "task": "请登录",
+    "img_url": "image0_flipv_fliph_blur9.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      224,
+      146,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_v1_flip_h1_blur0_91",
+    "task": "请重置",
+    "img_url": "image0_flipv_fliph_blur9.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      140,
+      146,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_flip_v1",
+    "task": "请输入用户名",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      204,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_flip_v1",
+    "task": "请输入密码",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      182,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_flip_v1",
+    "task": "请登录",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      146,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_flip_v1",
+    "task": "请重置",
+    "img_url": "image0_flipv.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      146,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_hue-13_2_saturation1_17",
+    "task": "请输入用户名",
+    "img_url": "image0_hue-13_sat117.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_hue-13_2_saturation1_17",
+    "task": "请输入密码",
+    "img_url": "image0_hue-13_sat117.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_hue-13_2_saturation1_17",
+    "task": "请登录",
+    "img_url": "image0_hue-13_sat117.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_hue-13_2_saturation1_17",
+    "task": "请重置",
+    "img_url": "image0_hue-13_sat117.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_rotation_-10_4",
+    "task": "请输入用户名",
+    "img_url": "image0_rot_-10.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      189,
+      195,
+      54
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_rotation_-10_4",
+    "task": "请输入密码",
+    "img_url": "image0_rot_-10.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      312,
+      212,
+      190,
+      53
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_rotation_-10_4",
+    "task": "请登录",
+    "img_url": "image0_rot_-10.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      346,
+      259,
+      81,
+      36
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_rotation_-10_4",
+    "task": "请重置",
+    "img_url": "image0_rot_-10.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      433,
+      247,
+      77,
+      33
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_rotation_6_6",
+    "task": "请输入用户名",
+    "img_url": "image0_rot_6.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      305,
+      221,
+      196,
+      42
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_rotation_6_6",
+    "task": "请输入密码",
+    "img_url": "image0_rot_6.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      303,
+      243,
+      191,
+      41
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_rotation_6_6",
+    "task": "请登录",
+    "img_url": "image0_rot_6.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      327,
+      279,
+      81,
+      31
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_rotation_6_6",
+    "task": "请重置",
+    "img_url": "image0_rot_6.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      415,
+      292,
+      76,
+      28
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_rotation_14_4",
+    "task": "请输入用户名",
+    "img_url": "image0_rot_14.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      303,
+      220,
+      193,
+      67
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_rotation_14_4",
+    "task": "请输入密码",
+    "img_url": "image0_rot_14.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      298,
+      241,
+      189,
+      66
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_rotation_14_4",
+    "task": "请登录",
+    "img_url": "image0_rot_14.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      317,
+      280,
+      82,
+      41
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_rotation_14_4",
+    "task": "请重置",
+    "img_url": "image0_rot_14.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      402,
+      305,
+      77,
+      38
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_noise_0_03",
+    "task": "请输入用户名",
+    "img_url": "image0_noise_3.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_noise_0_03",
+    "task": "请输入密码",
+    "img_url": "image0_noise_3.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_noise_0_03",
+    "task": "请登录",
+    "img_url": "image0_noise_3.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_noise_0_03",
+    "task": "请重置",
+    "img_url": "image0_noise_3.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_noise_0_142",
+    "task": "请输入用户名",
+    "img_url": "image0_noise_14.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_noise_0_142",
+    "task": "请输入密码",
+    "img_url": "image0_noise_14.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_noise_0_142",
+    "task": "请登录",
+    "img_url": "image0_noise_14.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_noise_0_142",
+    "task": "请重置",
+    "img_url": "image0_noise_14.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_noise_0_019",
+    "task": "请输入用户名",
+    "img_url": "image0_noise_1.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_noise_0_019",
+    "task": "请输入密码",
+    "img_url": "image0_noise_1.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_noise_0_019",
+    "task": "请登录",
+    "img_url": "image0_noise_1.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_noise_0_019",
+    "task": "请重置",
+    "img_url": "image0_noise_1.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_brightness_1_159",
+    "task": "请输入用户名",
+    "img_url": "image0_bright_115.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_brightness_1_159",
+    "task": "请输入密码",
+    "img_url": "image0_bright_115.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_brightness_1_159",
+    "task": "请登录",
+    "img_url": "image0_bright_115.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_brightness_1_159",
+    "task": "请重置",
+    "img_url": "image0_bright_115.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_brightness_0_755",
+    "task": "请输入用户名",
+    "img_url": "image0_bright_75.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_brightness_0_755",
+    "task": "请输入密码",
+    "img_url": "image0_bright_75.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_brightness_0_755",
+    "task": "请登录",
+    "img_url": "image0_bright_75.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_brightness_0_755",
+    "task": "请重置",
+    "img_url": "image0_bright_75.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_brightness_1_172",
+    "task": "请输入用户名",
+    "img_url": "image0_bright_117.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_brightness_1_172",
+    "task": "请输入密码",
+    "img_url": "image0_bright_117.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_brightness_1_172",
+    "task": "请登录",
+    "img_url": "image0_bright_117.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_brightness_1_172",
+    "task": "请重置",
+    "img_url": "image0_bright_117.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_contrast_1_253",
+    "task": "请输入用户名",
+    "img_url": "image0_contrast_125.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_contrast_1_253",
+    "task": "请输入密码",
+    "img_url": "image0_contrast_125.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_contrast_1_253",
+    "task": "请登录",
+    "img_url": "image0_contrast_125.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_contrast_1_253",
+    "task": "请重置",
+    "img_url": "image0_contrast_125.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_contrast_1_003",
+    "task": "请输入用户名",
+    "img_url": "image0_contrast_100.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_contrast_1_003",
+    "task": "请输入密码",
+    "img_url": "image0_contrast_100.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_contrast_1_003",
+    "task": "请登录",
+    "img_url": "image0_contrast_100.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_contrast_1_003",
+    "task": "请重置",
+    "img_url": "image0_contrast_100.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_contrast_1_075",
+    "task": "请输入用户名",
+    "img_url": "image0_contrast_107.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_contrast_1_075",
+    "task": "请输入密码",
+    "img_url": "image0_contrast_107.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_contrast_1_075",
+    "task": "请登录",
+    "img_url": "image0_contrast_107.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_contrast_1_075",
+    "task": "请重置",
+    "img_url": "image0_contrast_107.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_blur_0_579",
+    "task": "请输入用户名",
+    "img_url": "image0_blur_5.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_blur_0_579",
+    "task": "请输入密码",
+    "img_url": "image0_blur_5.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_blur_0_579",
+    "task": "请登录",
+    "img_url": "image0_blur_5.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_blur_0_579",
+    "task": "请重置",
+    "img_url": "image0_blur_5.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_blur_0_934",
+    "task": "请输入用户名",
+    "img_url": "image0_blur_9.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_blur_0_934",
+    "task": "请输入密码",
+    "img_url": "image0_blur_9.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_blur_0_934",
+    "task": "请登录",
+    "img_url": "image0_blur_9.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_blur_0_934",
+    "task": "请重置",
+    "img_url": "image0_blur_9.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_blur_0_776",
+    "task": "请输入用户名",
+    "img_url": "image0_blur_7.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      223,
+      195,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_blur_0_776",
+    "task": "请输入密码",
+    "img_url": "image0_blur_7.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      308,
+      245,
+      190,
+      20
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_blur_0_776",
+    "task": "请登录",
+    "img_url": "image0_blur_7.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      337,
+      278,
+      79,
+      23
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_blur_0_776",
+    "task": "请重置",
+    "img_url": "image0_blur_7.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      425,
+      281,
+      75,
+      20
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_scale_0_857",
+    "task": "请输入用户名",
+    "img_url": "image0_scale_85.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      263,
+      191,
+      167,
+      17
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_scale_0_857",
+    "task": "请输入密码",
+    "img_url": "image0_scale_85.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      263,
+      209,
+      162,
+      17
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_scale_0_857",
+    "task": "请登录",
+    "img_url": "image0_scale_85.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      288,
+      238,
+      67,
+      19
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_scale_0_857",
+    "task": "请重置",
+    "img_url": "image0_scale_85.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      364,
+      240,
+      64,
+      17
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_scale_1_068",
+    "task": "请输入用户名",
+    "img_url": "image0_scale_106.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      328,
+      238,
+      208,
+      21
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_scale_1_068",
+    "task": "请输入密码",
+    "img_url": "image0_scale_106.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      328,
+      261,
+      202,
+      21
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_scale_1_068",
+    "task": "请登录",
+    "img_url": "image0_scale_106.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      359,
+      296,
+      84,
+      24
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_scale_1_068",
+    "task": "请重置",
+    "img_url": "image0_scale_106.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      453,
+      300,
+      80,
+      21
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_0_scale_0_998",
+    "task": "请输入用户名",
+    "img_url": "image0_scale_99.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      307,
+      222,
+      194,
+      19
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_1_scale_0_998",
+    "task": "请输入密码",
+    "img_url": "image0_scale_99.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      307,
+      244,
+      189,
+      19
+    ],
+    "data_type": "icon",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_2_scale_0_998",
+    "task": "请登录",
+    "img_url": "image0_scale_99.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      336,
+      277,
+      78,
+      22
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  },
+  {
+    "split": "desktop",
+    "id": "screenspot_3_scale_0_998",
+    "task": "请重置",
+    "img_url": "image0_scale_99.png",
+    "img_size": [
+      640,
+      447
+    ],
+    "bbox": [
+      424,
+      280,
+      74,
+      19
+    ],
+    "data_type": "text",
+    "data_source": "Windows"
+  }
 ]
