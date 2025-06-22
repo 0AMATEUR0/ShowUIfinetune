@@ -140,9 +140,9 @@ def validate_screenspot(val_loader, model_engine, processor, epoch, global_step,
         answers_unique.append(meta['bbox'])
         outputs_unique.append(outputs)
 
-    # answers_unique = gather_object(answers_unique)
-    # generated_texts_unique = gather_object(generated_texts_unique)
-    # outputs_unique = gather_object(outputs_unique)
+    answers_unique = gather_object(answers_unique)
+    generated_texts_unique = gather_object(generated_texts_unique)
+    outputs_unique = gather_object(outputs_unique)
 
     if global_rank == 0:
         results = {}

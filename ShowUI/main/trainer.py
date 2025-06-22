@@ -32,10 +32,10 @@ def train(
         args.steps_per_epoch,
         [
             batch_time,
+            losses,
             iter_time,
             epoch_time,
             remain_time,
-            losses,
             seq_len,
             ctx_len,
             vis_len,
@@ -46,6 +46,9 @@ def train(
     # switch to train mode
     model.train()
     end = time.time()
+
+    for param_group in optimizer.param_groups:
+        print("Current lr:", param_group['lr'])
 
     # for global_step in range(args.steps_per_epoch):
     for local_step in range(args.steps_per_epoch):
@@ -89,6 +92,7 @@ def train(
             losses.update(loss.item(), input_dict["input_ids"].size(0))
             loss.backward()
             optimizer.step()
+            scheduler.step()
             optimizer.zero_grad()
 
         # measure elapsed time
