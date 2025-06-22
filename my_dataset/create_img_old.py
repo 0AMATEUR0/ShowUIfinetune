@@ -6,9 +6,9 @@ import random
 import json
 import copy
 
-src_img_path = "D:/Project/my_dataset/screenspot/images/image0.png"
-src_meta_path = "D:/Project/my_dataset/screenspot/metadata/metadata.json"
-output_dir = "D:/Project/my_dataset/screenspot/images"
+src_img_path = "D:/Project/my_dataset/ShowUI-desktop/images/image0.png"
+src_meta_path = "D:/Project/my_dataset/ShowUI-desktop/metadata/metadata.json"
+output_dir = "D:/Project/my_dataset/ShowUI-desktop/images"
 os.makedirs(output_dir, exist_ok=True)
 
 with open(src_meta_path, "r", encoding="utf-8") as f:
